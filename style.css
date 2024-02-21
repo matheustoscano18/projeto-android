@@ -42,7 +42,7 @@ a.externo::after {
     font-size: 1.2em;
     max-width: 500px;
     margin: auto;
-    margin-bottom: 20px;
+    padding-bottom: 50px;
 }
 
 .naveg {
